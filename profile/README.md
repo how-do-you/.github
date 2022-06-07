@@ -2,6 +2,7 @@
   <img src="https://github.com/how-do-you/.github/blob/main/profile/logo.gif">
   
   ## Templates and tutorials for coding related matters
+  <img src="https://img.shields.io/discord/983738898570178560?label=discord&logo=discord">
 </div>
 
 ## Introduction
