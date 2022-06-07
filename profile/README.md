@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/107042017">
+  <img src="./logo.png">
   
   ## Templates and tutorials for coding related matters
 </div>
