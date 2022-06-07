@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/how-do-you/.github/blob/main/profile/logo.png">
+  <img src="https://github.com/how-do-you/.github/blob/main/profile/logo.gif">
   
   ## Templates and tutorials for coding related matters
 </div>
